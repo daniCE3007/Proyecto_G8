@@ -1,5 +1,4 @@
 #tituloPrincipal {
-    text-align: center;
     color: black;
     font-weight: bold;
 
@@ -8,30 +7,30 @@
 .parrafos{
     text-align: justify;
     color: black;
-    font-weight: lighter;
 
 }
 
 .enfasis{
-    background-color:  cornsilk
+    background-color: buttonshadow
     
 }
 
 link{
-    color: magenta;
+    color: dodgerblue;
 }
 
-a:hover{
-    color: blueviolet;
-}
-
-a:active{
+link:hover{
     background-color: black;
     color: white;
 }
 
-a:visited{
-    color:red;
-    font-size: 20px
+link:active{
+    background-color: red;
+    color: black;
 }
 
+link:visited{
+    color: red;
+    font-size: 20px
+        
+}

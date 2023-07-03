@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     box-sizing:  border-box;
@@ -9,7 +10,7 @@ body {
 }
  
 .header {
-    background-color: deepskyblue;
+    background-color: black;
     height: 12%;
     top: 0;
     left: 0;
@@ -25,12 +26,12 @@ body {
 }
  
 .nav-link {
-    color: yellow;
+    color: white;
     text-decoration: none;
 }
  
 .logo {
-    color:  white;
+    color: aquamarine;
     font-size: 30px;
     font-weight: bold;
     padding: 0 40px;
@@ -73,7 +74,7 @@ body {
 }
  
 .footer {
-    background-color:  deepskyblue;
+    background-color: black;
     text-align: center;
     color: white;
     height: 20px;
