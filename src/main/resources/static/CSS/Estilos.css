@@ -1,0 +1,37 @@
+#tituloPrincipal {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+
+}
+
+.parrafos{
+    text-align: justify;
+    color: black;
+    font-weight: lighter;
+
+}
+
+.enfasis{
+    background-color:  cornsilk
+    
+}
+
+link{
+    color: magenta;
+}
+
+a:hover{
+    color: blueviolet;
+}
+
+a:active{
+    background-color: black;
+    color: white;
+}
+
+a:visited{
+    color:red;
+    font-size: 20px
+}
+
