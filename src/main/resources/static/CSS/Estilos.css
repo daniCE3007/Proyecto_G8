@@ -1,36 +1,4 @@
-#tituloPrincipal {
-    color: black;
-    font-weight: bold;
-
-}
-
-.parrafos{
-    text-align: justify;
-    color: black;
-
-}
-
-.enfasis{
-    background-color: buttonshadow
+#buttonIndex{
     
-}
-
-link{
-    color: dodgerblue;
-}
-
-link:hover{
-    background-color: black;
-    color: white;
-}
-
-link:active{
-    background-color: red;
-    color: black;
-}
-
-link:visited{
-    color: red;
-    font-size: 20px
-        
+   width: 50%
 }
